@@ -11,6 +11,9 @@
       <li>
         <a href="/calculator">calculator</a>
       </li>
+      <li>
+        <a href="/slot">slot</a>
+      </li>
     </ul>
   </nav>
 </header>
