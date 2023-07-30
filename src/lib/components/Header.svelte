@@ -14,6 +14,9 @@
       <li>
         <a href="/slot">slot</a>
       </li>
+      <li>
+        <a href="/svelte">svelte</a>
+      </li>
     </ul>
   </nav>
 </header>

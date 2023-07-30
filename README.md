@@ -10,3 +10,6 @@ elementDirective에 테스트에 관한 코드입니다.
 
 # slot
 slot
+
+# svelte
+svelte event등을 학습
