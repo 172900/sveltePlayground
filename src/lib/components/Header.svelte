@@ -17,6 +17,9 @@
       <li>
         <a href="/svelte">svelte</a>
       </li>
+      <li>
+        <a href="/blog/hello">blog</a>
+      </li>
     </ul>
   </nav>
 </header>
