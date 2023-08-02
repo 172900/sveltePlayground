@@ -20,6 +20,9 @@
       <li>
         <a href="/blog/hello">blog</a>
       </li>
+      <li>
+        <a href="/settings">settings</a>
+      </li>
     </ul>
   </nav>
 </header>
