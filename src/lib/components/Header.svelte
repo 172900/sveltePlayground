@@ -23,6 +23,9 @@
       <li>
         <a href="/settings">settings</a>
       </li>
+      <li>
+        <a href="/add">add</a>
+      </li>
     </ul>
   </nav>
 </header>
