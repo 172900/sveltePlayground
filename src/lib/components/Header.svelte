@@ -26,6 +26,9 @@
       <li>
         <a href="/add">add</a>
       </li>
+      <li>
+        <a href="/login">login</a>
+      </li>
     </ul>
   </nav>
 </header>
